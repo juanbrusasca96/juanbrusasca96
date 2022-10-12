@@ -49,7 +49,9 @@ const aboutMe = {
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://firebase.google.com" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.chartjs.org" target="_blank"> <img src="https://i0.wp.com/www.hoclabs.com/wp-content/uploads/2017/03/chartjs.png?fit=1050%2C553&ssl=1" alt="chartjs" width="40" height="40"/> </a> 
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbrusasca96&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanbrusasca96" /></p>
 </br>
