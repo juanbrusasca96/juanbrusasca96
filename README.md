@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/ggtpYV17RP9lTbc542/giphy.gif?cid=ecf05e47sa1px9i2bdx5krsanz4wk2ddarzkh508l0cfvwon&rid=giphy.gif&ct=g" alt="welcome"/>
+<img src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47vz6vwmys3kolsom9so6tol3abect8tqs23g2mx1y&rid=giphy.gif&ct=g" alt="welcome"/>
 
 
 <h1 align="center">Hola 👋, soy Juan Brusasca</h1>
