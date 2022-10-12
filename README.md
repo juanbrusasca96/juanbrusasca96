@@ -3,8 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Camilo Pineda</h1>
 
-<img src="https://user-images.githubusercontent.com/66718960/168454827-e8cd2493-f09d-4b51-a058-d576f437d3bc.gif" width="850" height="400">
-
 <h3 align="center">I am 30 years old Colombian who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 
 ```javascript
@@ -56,13 +54,13 @@ const aboutMe = {
 <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryancpineda&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryancpineda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbrusasca96&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanbrusasca96" /></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryancpineda&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="bryancpineda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanbrusasca96&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="juanbrusasca96" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryancpineda&theme=dark" alt="bryancpineda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanbrusasca96&theme=dark" alt="juanbrusasca96" /></p>
 
 </br>
 <h4 align="center">Visitor's :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{bryancpineda}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{juanbrusasca96}/count.svg" alt="juanbrusasca96 :: Visitor's Count" /></p>
