@@ -1,14 +1,14 @@
 <img src="https://github.com/juanbrusasca96/juanbrusasca96/blob/main/svg.svg" alt="hello world"/>
 
 
-<h1 align="center">Hi 👋, I'm Camilo Pineda</h1>
+<h1 align="center">Hola 👋, soy Juan Brusasca</h1>
 
-<h3 align="center">I am 30 years old Colombian who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
+<h3 align="center">Soy un apasionado de la programación y de la lógica. Disfruto estar sentado programando, incluso durante largas horas cuando me trabo con algo. Y ni hablar de la hermosa sensación que me genera cuando ese programa sale andando como quiero 😁. Soy un fiel creyente del trabajo duro, la perseverancia y el nunca rendirse, y considero que esto se complementa bien con mi gusto por programar. Soy estudiante de Licenciatura en Ciencias de la Computación 🖥️ en la Universidad Nacional de Córdoba. Bienvenido!!</h3>
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
+   code: [Javascript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
@@ -17,27 +17,23 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["MongoDB", "PostgreSQL"],
+      databases: ["PostgreSQL"],
    },
-   currentOccupation: ["Tech Instructor at Henry"],
+   currentOccupation: ["Estoy en busca de mi primer experiencia laboral en el mundo IT"],
 };
 ```
-- 🌱 I’m currently learning **Kotlin, Python**
+- 🌱 Actualmente me estoy formando en **Typescript, MongoDB**
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
+- 💬 Preguntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
 
-- 📫 How to reach me **bpinedalopera@gmail.com**
+- 📫 Email de contacto **juanbrusasca96@gmail.com**
 
-- 📄 Know about my experiences Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people.](Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people.)
-
-- ⚡ Fun fact **After many hours of writing code, I enter a state called "dumb time" which consists of an abstract state of constant illogical thinking talking to my brain about everything and nothing.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame tambien por aqui:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juanbrusasca/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/juanbrusasca/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
