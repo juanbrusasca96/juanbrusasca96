@@ -30,7 +30,7 @@ const aboutMe = {
 <h3 align="left">Contactame tambien por aqui:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juanbrusasca/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/juanbrusasca/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/juanbrusasca/" target="_blank"><img align="center" src="https://imgur.com/a/kFvZIA8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juanbrusasca/" target="_blank"><blockquote class="imgur-embed-pub" lang="en" data-id="a/kFvZIA8" data-context="false" ><a href="//imgur.com/a/kFvZIA8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
