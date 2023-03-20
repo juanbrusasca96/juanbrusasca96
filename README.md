@@ -48,7 +48,7 @@ const aboutMe = {
 <a href="https://firebase.google.com" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.chartjs.org" target="_blank"> <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" alt="chartjs" width="45" height="45"/> </a> 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="java" width="45" height="45"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png](https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="45" height="45"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="45" height="45"/> </a> 
 <a href="https://mongoosejs.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="mongoose" width="65" height="45"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbrusasca96&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanbrusasca96" /></p>
