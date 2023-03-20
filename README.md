@@ -46,9 +46,9 @@ const aboutMe = {
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://firebase.google.com" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.chartjs.org" target="_blank"> <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" alt="chartjs" width="45" height="45"/> </a> 
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="java" width="45" height="45"/> </a> 
+<a href="https://firebase.google.com" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/firebase/images/touchicon-180.png" alt="firebase" height="45"/> </a>
+<a href="https://www.chartjs.org" target="_blank"> <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" alt="chartjs" height="50"/> </a> 
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="java" height="50"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://mongoosejs.com/" target="_blank"> <img src="https://lh4.googleusercontent.com/g_LM2kHik0YOQuQHnJz0L640IhT_bP_YJeV7k0KHFhCNsLU9P9y7Bk6RUb2KDHpdo5WHlKE6irD0f2KcjeGZBOlWFf6G28kFYernrTnIsL45mr9DoEuPz7Niq8nAr2r_AC212YHq" alt="mongoose" height="40"/> </a> 
 
