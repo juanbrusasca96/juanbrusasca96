@@ -54,7 +54,7 @@ const aboutMe = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbrusasca96&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanbrusasca96" /></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanbrusasca96&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="juanbrusasca96" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=juanbrusasca96&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="juanbrusasca96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanbrusasca96&theme=dark" alt="juanbrusasca96" /></p>
 
