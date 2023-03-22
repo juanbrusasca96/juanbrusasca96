@@ -52,10 +52,8 @@ const aboutMe = {
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://mongoosejs.com/" target="_blank"> <img src="https://lh4.googleusercontent.com/g_LM2kHik0YOQuQHnJz0L640IhT_bP_YJeV7k0KHFhCNsLU9P9y7Bk6RUb2KDHpdo5WHlKE6irD0f2KcjeGZBOlWFf6G28kFYernrTnIsL45mr9DoEuPz7Niq8nAr2r_AC212YHq" alt="mongoose" height="40"/> </a> 
 
-<div><img align="left" width="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbrusasca96&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanbrusasca96" /></div>
-</br>
-<div>&nbsp;<img align="right" width="100" src="https://github-readme-stats.vercel.app/api?username=juanbrusasca96&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="juanbrusasca96" /></div>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbrusasca96&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanbrusasca96" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanbrusasca96&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="juanbrusasca96" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanbrusasca96&theme=dark" alt="juanbrusasca96" /></p>
 
 </br>
