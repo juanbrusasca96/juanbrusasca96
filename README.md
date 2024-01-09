@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Juan Brusasca</h1>
 
-<h3 align="center">Soy un apasionado de la programación y de la lógica. Disfruto estar sentado programando, incluso durante largas horas cuando me trabo con algo. Y ni hablar de la hermosa sensación que me genera cuando ese programa sale andando como quiero 😁. Soy un fiel creyente del trabajo duro, la perseverancia y el nunca rendirse, y considero que esto se complementa bien con mi gusto por programar. Soy estudiante de Ingeniería en sistemas 🖥️ en la Universidad Tecnologica Nacional - Facultad Regional Córdoba. Bienvenid@!!</h3>
+<h3 align="center">Soy un apasionado de la programación y de la lógica. Disfruto estar sentado programando, incluso durante largas horas cuando me trabo con algo. Y ni hablar de la hermosa sensación que me genera cuando ese programa sale andando como quiero 😁. Soy un fiel creyente del trabajo duro, la perseverancia y el nunca rendirse, y considero que esto se complementa bien con mi gusto por programar. Soy estudiante de Ingeniería en sistemas 🖥️ en la Universidad Tecnológica Nacional - Facultad Regional Córdoba. Bienvenid@!!</h3>
 
 <p align="center"><img src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47vz6vwmys3kolsom9so6tol3abect8tqs23g2mx1y&rid=giphy.gif&ct=g" alt="welcome"/></p>
 
