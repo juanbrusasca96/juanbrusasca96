@@ -1,29 +1,28 @@
 <h1 align="center">Hola 👋, soy Juan Brusasca</h1>
 
-<h3 align="center">Soy un apasionado de la programación y de la lógica. Disfruto estar sentado programando, incluso durante largas horas cuando me trabo con algo. Y ni hablar de la hermosa sensación que me genera cuando ese programa sale andando como quiero 😁. Soy un fiel creyente del trabajo duro, la perseverancia y el nunca rendirse, y considero que esto se complementa bien con mi gusto por programar. Soy estudiante de Licenciatura en Ciencias de la Computación 🖥️ en la Universidad Nacional de Córdoba. Bienvenid@!!</h3>
+<h3 align="center">Soy un apasionado de la programación y de la lógica. Disfruto estar sentado programando, incluso durante largas horas cuando me trabo con algo. Y ni hablar de la hermosa sensación que me genera cuando ese programa sale andando como quiero 😁. Soy un fiel creyente del trabajo duro, la perseverancia y el nunca rendirse, y considero que esto se complementa bien con mi gusto por programar. Soy estudiante de Ingeniería en sistemas 🖥️ en la Universidad Tecnologica Nacional - Facultad Regional Córdoba. Bienvenid@!!</h3>
 
 <p align="center"><img src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47vz6vwmys3kolsom9so6tol3abect8tqs23g2mx1y&rid=giphy.gif&ct=g" alt="welcome"/></p>
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Java],
+   code: [Javascript, Java, Python],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
+         js: ["React", "Redux", "Next JS"],
          css: ["Bootstrap", "Material UI"]
       },
       backEnd: {
-         js: ["Node", "Express", "Mongoose"]
+         js: ["Node", "Express", "Mongoose", "Python", "FastAPI", "SQLAlchemy"]
       },
       databases: ["PostgreSQL", "Mongo DB"],
-   },
-   currentOccupation: ["Estoy en busca de mi primer experiencia laboral en el mundo IT"],
+   }
 };
 ```
 - 🌱 Actualmente me estoy formando en **Typescript, Angular**
 
-- 💬 Preguntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, Mongoose, Mongo DB**
+- 💬 Preguntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, Mongoose, Mongo DB, Python, FastAPI, SQLAlchemy**
 
 - 📫 Email de contacto **juanbrusasca96@gmail.com**
 
@@ -46,11 +45,12 @@ const aboutMe = {
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://firebase.google.com" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/firebase/images/touchicon-180.png" alt="firebase" height="45"/> </a>
-<a href="https://www.chartjs.org" target="_blank"> <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" alt="chartjs" height="50"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" height="45"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="50"/> </a> 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="java" height="50"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://mongoosejs.com/" target="_blank"> <img src="https://lh4.googleusercontent.com/g_LM2kHik0YOQuQHnJz0L640IhT_bP_YJeV7k0KHFhCNsLU9P9y7Bk6RUb2KDHpdo5WHlKE6irD0f2KcjeGZBOlWFf6G28kFYernrTnIsL45mr9DoEuPz7Niq8nAr2r_AC212YHq" alt="mongoose" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://www.thoughtco.com/thmb/0-Le1GpKJDgVfdBH4LxY_avQ90A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kisspng-microsoft-sql-server-windows-server-2008-r2-b47d7cc742ab406d87b638c3ecd3f598.jpg" alt="sqlserver" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbrusasca96&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanbrusasca96" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanbrusasca96&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="juanbrusasca96" /></p>
