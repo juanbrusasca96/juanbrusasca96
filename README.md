@@ -50,7 +50,7 @@ const aboutMe = {
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="java" height="50"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://mongoosejs.com/" target="_blank"> <img src="https://lh4.googleusercontent.com/g_LM2kHik0YOQuQHnJz0L640IhT_bP_YJeV7k0KHFhCNsLU9P9y7Bk6RUb2KDHpdo5WHlKE6irD0f2KcjeGZBOlWFf6G28kFYernrTnIsL45mr9DoEuPz7Niq8nAr2r_AC212YHq" alt="mongoose" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://w7.pngwing.com/pngs/484/694/png-transparent-logo-microsoft-sql-font-design-text-logo-shoe.png" alt="sqlserver" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="sqlserver" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbrusasca96&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanbrusasca96" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanbrusasca96&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="juanbrusasca96" /></p>
